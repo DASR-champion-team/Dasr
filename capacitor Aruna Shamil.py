@@ -1,4 +1,4 @@
-import RPi.GPIO as GPIO #просто комментарий 
+import RPi.GPIO as GPIO #просто комментарий    
 import time
 import numpy as np
 import matplotlib.pyplot as plt
