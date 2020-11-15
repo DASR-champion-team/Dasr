@@ -1,4 +1,4 @@
-import RPi.GPIO as GPIO
+import RPi.GPIO as GPIO #просто комментарий
 import time
 
 bit_depth = 8
