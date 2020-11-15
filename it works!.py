@@ -17,7 +17,7 @@ def bin_convert(number):
         N-=1
     X.append(n)
     return X
-
+#Скоро новий рік!
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 GPIO.setup(26, GPIO.OUT)
